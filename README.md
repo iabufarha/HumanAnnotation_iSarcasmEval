@@ -16,5 +16,4 @@ If you use this data please cite our work:
     address = "Abu Dhabi, United Arab Emirates",
     publisher = "Association for Computational Linguistics",
 }
-
-'''
+```
